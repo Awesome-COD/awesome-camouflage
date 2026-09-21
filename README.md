@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.09.01</strong>
+:loudspeaker:<strong>Last updated: 2026.09.18</strong>
 
 - [09/2026] Update with ECCV papers.
 - [06/2026] Update with ICASSP papers.
@@ -108,6 +108,9 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Sep` | `ArXiv` | ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.15418v1) Code |
+|:green_square:<br> `CIG`| `2026/Sep` | `ArXiv` | Rethinking Camouflage Image Generation towards a Training-Free Paradigm <br> <sup><sub>*Haodong Yang, Zhongling Huang, Gong Cheng*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.14377v1) Code |
+|:blue_square: `COD`| `2026/Sep` | `ArXiv` | LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection <br> <sup><sub>*Zhuangfan Huang, Xiaosong Li, Yang Liu, Tao Ye, Haishu Tan*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.12798v1) Code |
 |:blue_square: `COD`| `2026/Aug` | `ECCV` | When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization <br> <sup><sub>*Tianqi Li, Wenyu Fang, Xin He, Xue Geng, Xu Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2604.16855v1) Code |
 |:blue_square: `COD`| `2026/Aug` | `ECCV` | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.27843v1) Code |
 |:blue_square: `COD`| `2026/Aug` | `ECCV` | Iterative Refinement of Semantic and Spatial Representations for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Fangyan Wang, Ge Jiao, Guowen Yue*</sub></sup> | [Paper](https://eccv.ecva.net/virtual/2026/poster/5124) [Code](https://github.com/alzhineng/ISSR) |
