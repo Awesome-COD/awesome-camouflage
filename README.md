@@ -13,7 +13,8 @@
 
 :loudspeaker:<strong>Last updated: 2026.10.05</strong>
 
-- [09/2026] Update with ECCV papers.
+- [10/2026] Update with NeurlPS2026 papers.
+- [09/2026] Update with ECCV2026 papers.
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
 - [05/2026] Update with CVPR2026 papers.
@@ -108,6 +109,8 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Sep` | `NeurlPS` | Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes <br> <sup><sub>*Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia*</sub></sup> | Paper Code |
+|:blue_square: `COD`| `2026/Sep` | `NeurlPS` | Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes <br> <sup><sub>*Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia*</sub></sup> | Paper Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection <br> <sup><sub>*Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.38747v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.15418v1) Code |
 |:green_square:<br> `CIG`| `2026/Sep` | `ArXiv` | Rethinking Camouflage Image Generation towards a Training-Free Paradigm <br> <sup><sub>*Haodong Yang, Zhongling Huang, Gong Cheng*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.14377v1) Code |
