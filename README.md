@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.09.28</strong>
+:loudspeaker:<strong>Last updated: 2026.10.05</strong>
 
 - [09/2026] Update with ECCV papers.
 - [06/2026] Update with ICASSP papers.
@@ -108,6 +108,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
+|:blue_square: `COD`| `2026/Sep` | `ArXiv` | Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection <br> <sup><sub>*Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.38747v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.15418v1) Code |
 |:green_square:<br> `CIG`| `2026/Sep` | `ArXiv` | Rethinking Camouflage Image Generation towards a Training-Free Paradigm <br> <sup><sub>*Haodong Yang, Zhongling Huang, Gong Cheng*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.14377v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection <br> <sup><sub>*Zhuangfan Huang, Xiaosong Li, Yang Liu, Tao Ye, Haishu Tan*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.12798v1) Code |
