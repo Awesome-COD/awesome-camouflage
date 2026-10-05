@@ -13,14 +13,14 @@
 
 :loudspeaker:<strong>Last updated: 2026.10.05</strong>
 
-- [10/2026] Update with NeurlPS2026 papers.
+- [10/2026] Update with NeurIPS2026 papers.
 - [09/2026] Update with ECCV2026 papers.
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
 - [05/2026] Update with CVPR2026 papers.
 - [05/2026] Update with ICML2026 papers.
 - [11/2025] Update with AAAI2026 papers. 
-- [10/2025] Update with NeurlPS2025 papers. 
+- [10/2025] Update with NeurIPS2025 papers. 
 - [09/2025] Update with ACMMM2025, TPAMI papers. 
 - [06/2025] Update with ICCV2025 papers.    
 - [06/2025] Update with CVPR2025, AAAI2025 papers.    
@@ -109,7 +109,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
-|:blue_square: `COD`| `2026/Sep` | `NeurlPS` | Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes <br> <sup><sub>*Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia*</sub></sup> | [Paper](https://nips.cc/Conferences/2026/Schedule?showEvent=155657) Code |
+|:blue_square: `COD`| `2026/Sep` | `NeurIPS` | Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes <br> <sup><sub>*Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia*</sub></sup> | [Paper](https://nips.cc/Conferences/2026/Schedule?showEvent=155657) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection <br> <sup><sub>*Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.38747v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.15418v1) Code |
 |:green_square:<br> `CIG`| `2026/Sep` | `ArXiv` | Rethinking Camouflage Image Generation towards a Training-Free Paradigm <br> <sup><sub>*Haodong Yang, Zhongling Huang, Gong Cheng*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.14377v1) Code |
@@ -219,10 +219,10 @@
 |:blue_square: `COD`| `2025/Oct` | `ACM MMAsia` | APGNet: Adaptive Prior-Guided for Underwater Camouflaged Object Detection <br> <sup><sub>*Xinxin Huang, Han Sun, Junmin Cai, Ningzhong Liu, Huiyu Zhou*</sub></sup> | [Paper](https://arxiv.org/pdf/2510.12056v1) Code |
 |:blue_square: `COD`| `2025/Oct` | `ArXiv` | SPEGNet: Synergistic Perception-Guided Network for Camouflaged Object Detection <br> <sup><sub>*Baber Jan, Saeed Anwar, Aiman H. El-Maleh, Abdul Jabbar Siddiqui, Abdul Bais*</sub></sup> | [Paper](https://arxiv.org/pdf/2510.04472v1) [Code](https://github.com/Baber-Jan/SPEGNet) |
 |:blue_square: `COD`| `2025/Sep` | `TIP` | HUNTNet: Homomorphic Unified Nexus Topology for Camouflaged Object Detection <br> <sup><sub>*Haolin Ji, Fengying Xie, Linpeng Pan, Yushan Zheng, Zhenwei Shi*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11169412/) [Code](https://github.com/HaolinJi817/HUNTNet) |
-|:white_large_square:<br> `CX` |`2025/Sep` | `NeurlPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper [Code](https://github.com/zhangjinCV/MMCSBench) |
+|:white_large_square:<br> `CX` |`2025/Sep` | `NeurIPS` | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup> | Paper [Code](https://github.com/zhangjinCV/MMCSBench) |
 |:blue_square: `COD`| `2025/Sep` | `TMM` | BTDGNet: A Dual-Guided Camouflaged Object Detection Network Leveraging Boundary and Texture Information <br> <sup><sub>*Xiaogang Song, Pengfei Zhang, Xiaochang Li, Xinhong Hei, Rongrong Liu*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11175548/) Code |
 |:blue_square: `COD`| `2025/Sep` | `TMM` | A UNet-Like Transformer Network for Camouflaged Object Detection <br> <sup><sub>*Fuming Sun, Jinyu Han, Weiyi Wu, Jing Sun, Mengyin Wang, Haojie Li*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11175541/) [Code](https://github.com/hjy0518/UTNet) |
-|:red_square: `VCOD` | `2025/Sep` | `NeurlPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730)  [Code](https://github.com/zhoustan/CamSAM2) |
+|:red_square: `VCOD` | `2025/Sep` | `NeurIPS` | CamSAM2: Segment Anything Accurately in Camouflaged Videos <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup> | [Paper](https://arxiv.org/abs/2503.19730)  [Code](https://github.com/zhoustan/CamSAM2) |
 |:orange_square: `COS` | `2025/Sep` | `TPAMI` | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup> | [Paper](https://arxiv.org/abs/2410.16953)  [Code](https://github.com/R-LEI360725/ZSCOS-CaMF) |
 |:blue_square: `COD`| `2025/Aug` | `TMM` | Spatial-Frequency Collaborative Learning for Camouflaged Object Detection <br> <sup><sub>*Rui Zhao, Mengyin Wang, Fasheng Wang, Fuming Sun, Haojie Li*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/11130918/) [Code](https://github.com/Zhaorui328/SFCNet) |
 |:blue_square: `COD`| `2025/Jul` | `ACMMM` | From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup> | Paper Code |
