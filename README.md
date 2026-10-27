@@ -110,7 +110,6 @@
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
 |:white_large_square:<br> `CX` | `2026/Oct` | `ArXiv` | Concentration, Not Uncertainty: Why Targeted Synthetic Data Doesn't Help Camouflaged Object Detection <br> <sup><sub>*Akshat Dobhal, Sanjay Singh*</sub></sup> | [Paper](https://arxiv.org/pdf/2610.09807v1) Code |
-|:blue_square: `COD`| `2026/Sep` | `ArXiv` | Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection <br> <sup><sub>*Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.38747v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `NeurIPS` | Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes <br> <sup><sub>*Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia*</sub></sup> | [Paper](https://nips.cc/Conferences/2026/Schedule?showEvent=155657) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection <br> <sup><sub>*Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.38747v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `ArXiv` | ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation <br> <sup><sub>*Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.15418v1) Code |
