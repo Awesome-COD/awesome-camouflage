@@ -109,7 +109,7 @@
 
 | **Task** | **Release** | **Pub.** | **Title** |    **Links**   |
 | :--------: | :------------: | :------: | :-------: | :------------: |
-|:blue_square: `COD`| `2026/Oct` | `arXiv` | AxisQ: Depth-Adaptive Channel--Frequency Quantization for Camouflaged Object Detection <br> <sup><sub>*Chi Ruan, Tianqi Li, Xin He, Xue Geng, Ming-Ming Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2610.36844v1) Code |
+|:blue_square: `COD`| `2026/Oct` | `arXiv` | AxisQ: Depth-Adaptive Channel--Frequency Quantization for Camouflaged Object Detection <br> <sup><sub>*Chi Ruan, Tianqi Li, Xin He, Xue Geng, Ming-Ming Cheng, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2610.36844v1) [Code](https://github.com/chi558/AxisQ) |
 |:white_large_square:<br> `CX` | `2026/Oct` | `arXiv` | Concentration, Not Uncertainty: Why Targeted Synthetic Data Doesn't Help Camouflaged Object Detection <br> <sup><sub>*Akshat Dobhal, Sanjay Singh*</sub></sup> | [Paper](https://arxiv.org/pdf/2610.09807v1) Code |
 |:blue_square: `COD`| `2026/Sep` | `NeurIPS` | Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes <br> <sup><sub>*Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia*</sub></sup> | [Paper](https://nips.cc/Conferences/2026/Schedule?showEvent=155657) Code |
 |:blue_square: `COD`| `2026/Sep` | `arXiv` | Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection <br> <sup><sub>*Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding*</sub></sup> | [Paper](https://arxiv.org/pdf/2609.38747v1) Code |
