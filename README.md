@@ -11,7 +11,7 @@
 # <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
 
 
-:loudspeaker:<strong>Last updated: 2026.10.19</strong>
+:loudspeaker:<strong>Last updated: 2026.11.02</strong>
 
 - [10/2026] Update with NeurIPS2026 papers.
 - [09/2026] Update with ECCV2026 papers.
