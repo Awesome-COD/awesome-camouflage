@@ -14,6 +14,7 @@
 :loudspeaker:<strong>Last updated: 2026.11.02</strong>
 
 - [10/2026] Update with NeurIPS2026 papers.
+- [09/2026] Update with ACMMM2026 papers.
 - [09/2026] Update with ECCV2026 papers.
 - [06/2026] Update with ICASSP papers.
 - [06/2026] Update with TPAMI, TMM, TIP papers.
@@ -123,8 +124,11 @@
 |:blue_square: `COD`| `2026/Aug` | `arXiv` | Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum <br> <sup><sub>*Avi Gupta, Trasha Gupta*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.30355v1) [Code](https://github.com/avigupta2798/MSFormer) |
 |:blue_square: `COD`| `2026/Aug` | `arXiv` | Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.11135v1) [Code](https://github.com/2231122/OPCOD) |
 |:blue_square: `COD`| `2026/Aug` | `arXiv` | LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection <br> <sup><sub>*Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu*</sub></sup> | [Paper](https://arxiv.org/pdf/2608.07941v1) Code |
-|:green_square:<br> `CIG`| `2026/Jul` | `ACM MM` | To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations <br> <sup><sub>*Wenzhuang Wang, Yifan Zhao, Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, Jia Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.17768v1) Code |
-|:blue_square: `COD`| `2026/Jul` | `arXiv` | GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.11732v1) Code |
+|:blue_square: `COD`| `2026/Jul` | `ACM MM` | From Coded Measurements to Camouflaged Object Detection: Reconstruction-Free Task Learning for Snapshot Spectral Imaging <br> <sup><sub>*Xuehui Wang, Ziyan Zhang, Junren Wen, Chenying Yang*</sub></sup> | [Paper](https://dl.acm.org/doi/epdf/10.1145/3767308.3832551) Code |
+|:green_square:<br> `CIG`| `2026/Jul` | `ACM MM` | Making Your Object Camouflage: A Training-Free Diffusion Model for Controllable Camouflaged Image Generation <br> <sup><sub>*Guojin Zhong, Qianjun Zhang, Jin Yuan, Xuan Liu*</sub></sup> | [Paper](https://dl.acm.org/doi/epdf/10.1145/3767308.3836151) [Code](https://github.com/zgj77/CamDiff) |
+|:blue_square: `COD`| `2026/Jul` | `ACM MM` | CT-CLIP: Calibrating Semantic Occupancy Tokens for Class-Guided Camouflaged Object Detection <br> <sup><sub>*Guohui Zhang, Fuming Sun, Xingrui Zhou, Yang Cao, Jing Sun, Fasheng Wang*</sub></sup> | [Paper](https://dl.acm.org/doi/epdf/10.1145/3767308.3835386) Code |
+|:green_square:<br> `CIG`| `2026/Jul` | `ACM MM` | To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations <br> <sup><sub>*Wenzhuang Wang, Yifan Zhao, Mingcan Ma, Yunlong Che, Haoran Chen, Ming Liu, Jia Li*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.17768v1) [Code](https://github.com/fayewong666999/CamoDreamer) |
+|:blue_square: `COD`| `2026/Jul` | `ACM MM` | GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting <br> <sup><sub>*Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.11732v1) [Code](https://github.com/ynulonger/GFR-SAM) |
 |:blue_square: `COD`| `2026/Jul` | `arXiv` | When Does Resolution Help a Frozen Backbone? Global Attention at Resolution Predicts Scalable Adaptation for Camouflaged and Marine Animal Segmentation <br> <sup><sub>*Tyler Rust, Chandra Kambhamettu*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.02708v1) Code |
 |:white_large_square:<br> `CX` | `2026/Jul` | `arXiv` | Beyond Pixel Overlap: A Framework for Decomposing Segmentation Evaluation Metrics <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao*</sub></sup> | [Paper](https://arxiv.org/pdf/2607.00886v1) [Code](https://github.com/lartpang/PySODMetrics) |
 |:blue_square: `COD`| `2026/Jun` | `arXiv` | HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection <br> <sup><sub>*Jiawei Xu, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu*</sub></sup> | [Paper](https://arxiv.org/pdf/2606.31496v1) [Code](https://github.com/jiaweiXu1029/HVPNet) |
